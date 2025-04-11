@@ -21,17 +21,15 @@ Make sure Python 3 is installed on your machine. You can check by running:
 ```bash
 python --version
 
-Installation
+### Installation
 Clone the repo:
 
-bash
 Copy
 Edit
-git clone https://github.com/your-username/dark-souls2-cyoa.git
+git clone https://github.com/shualyons/dark-souls2-cyoa.git
 cd dark-souls2-cyoa
 Run the game:
 
-bash
 Copy
 Edit
 python main.py
@@ -42,8 +40,8 @@ Read the narrative and choose your path by typing the number or keyword associat
 
 Each decision shapes the outcome—death lurks at every turn!
 
-📁 Project Structure
-bash
+### 📁 Project Structure
+
 Copy
 Edit
 dark-souls2-cyoa/
@@ -55,10 +53,10 @@ dark-souls2-cyoa/
 └── README.md
 Customize this structure to reflect your actual files.
 
-📜 License
+###📜 License
 This project is licensed under the MIT License.
 
-🤝 Contributing
+###🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Prepare to die... or survive. The choice is yours.
