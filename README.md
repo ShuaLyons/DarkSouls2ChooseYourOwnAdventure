@@ -28,7 +28,10 @@ git clone https://github.com/ShuaLyons/DarkSouls2ChooseYourOwnAdventure.git
 Run the game:
 
 python main.py
-🎮 How to Play
+
+### 🎮 How to Play
+
+
 Launch the game in your terminal.
 
 Read the narrative and choose your path by typing the number or keyword associated with your choice.
