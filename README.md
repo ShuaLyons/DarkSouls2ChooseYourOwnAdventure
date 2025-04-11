@@ -18,20 +18,15 @@ Immerse yourself in a grim and mysterious world where your choices determine you
 
 Make sure Python 3 is installed on your machine. You can check by running:
 
-```bash
 python --version
 
 ### Installation
 Clone the repo:
 
-Copy
-Edit
-git clone https://github.com/shualyons/dark-souls2-cyoa.git
-cd dark-souls2-cyoa
+git clone https://github.com/ShuaLyons/DarkSouls2ChooseYourOwnAdventure.git
+
 Run the game:
 
-Copy
-Edit
 python main.py
 🎮 How to Play
 Launch the game in your terminal.
@@ -40,23 +35,12 @@ Read the narrative and choose your path by typing the number or keyword associat
 
 Each decision shapes the outcome—death lurks at every turn!
 
-### 📁 Project Structure
+## 📁 Project Structure
 
-Copy
-Edit
-dark-souls2-cyoa/
+DarkSouls2ChooseYourOwnAdventure
+
 ├── main.py
-├── data/
-│   └── story.json
-├── utils/
-│   └── helpers.py
+
 └── README.md
-Customize this structure to reflect your actual files.
-
-###📜 License
-This project is licensed under the MIT License.
-
-###🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Prepare to die... or survive. The choice is yours.
