@@ -1,4 +1,4 @@
-# 🗡️ Dark Souls 2 Choose Your Own Adventure Game
+# 🗡️ Dark Souls 2 Choose Your Own Adventure Game (WIP)
 
 A text-based **Choose Your Own Adventure** game inspired by *Dark Souls 2*, built in **Python**.
 
