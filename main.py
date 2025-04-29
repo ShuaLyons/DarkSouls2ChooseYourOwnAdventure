@@ -1,5 +1,5 @@
 def bonfire_art():
-    return """
+    return r"""
        )  (
       (   ) )
        ) ( (
@@ -13,14 +13,14 @@ def bonfire_art():
     """
 
 def fog_gate_art():
-    return """
+    return r"""
     |||||||||||||||||||||
     |||  FOG GATE    ||||
     |||||||||||||||||||||
     """
 
 def you_died_art():
-    return """
+    return r"""
  __     ______  _    _   _      ____   _____ ______ 
  \ \   / / __ \| |  | | | |    / __ \ / ____|  ____|
   \ \_/ / |  | | |  | | | |   | |  | | (___ | |__   
