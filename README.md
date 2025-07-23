@@ -1,16 +1,14 @@
 # 🗡️ Dark Souls 2 Choose Your Own Adventure Game (WIP)
 
+![Python Version](https://img.shields.io/badge/python-3.6%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Last Commit](https://img.shields.io/github/last-commit/shualyons/darksouls2chooseyourownadventure)
+
 A text-based **Choose Your Own Adventure** game inspired by *Dark Souls 2*, built in **Python**.
 
 ## ⚔️ Overview
 
 Immerse yourself in a grim and mysterious world where your choices determine your fate. Navigate through treacherous encounters, interact with familiar characters, and survive the unforgiving paths inspired by *Dark Souls 2* lore.
-
-## 🛠️ Built With
-
-- Python 3
-- Rich storytelling and branching logic
-- Terminal/Console-based interface
 
 ## 🚀 Getting Started
 
@@ -30,7 +28,6 @@ Run the game:
 python main.py
 
 ### 🎮 How to Play
-
 
 Launch the game in your terminal.
 
